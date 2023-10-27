@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "HP Pavilion 15-eh3004no",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/dator-surfplatta/laptop/laptop-14-16-tum/hp-hp-pavilion-15-eh3004no(1030242)_590878_1_Normal_Large.webp",
+    "price": 9930,
+    "points": [
+      "AMD Ryzen 7 7730U processor",
+      "512 GB SSD & 16 GB DDR4 RAM",
+      "15,6 Full HD-skärm (1920 x 1080)",
+      "Upp till 8,5 timmars batteritid",
+      "Windows 11 Home"
+    ],
+    "description": "HP Pavilion 15-eh3004no är en bärbar dator med en 15,6 skärm som har en upplösning på 1920 x 1080. Den drivs av en AMD Ryzen 7 7730U processor och har 16 GB DDR4 RAM, vilket ger snabb och effektiv prestanda för multitasking och krävande applikationer. Datorn är försedd med en 512 GB SSD-hårddisk som ger snabb lagring och uppstartstider. HP Pavilion 15-eh3004no har också en inbyggd webbkamera och högtalare samt en mängd olika portar, inklusive USB-C, två USB-A och HDMI som gör att du enkelt kan ansluta till andra enheter.",
+    "inventory": 0,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Acer Swift Edge - SFE16-42-R7F5",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/dator-surfplatta/laptop/laptop-14-16-tum/acer-swift-edge-sfe16-42-r7f5(1030037)_592208_1_Normal_Large.webp",
+    "price": 11990,
+    "points": [
+      "AMD Ryzen 7 7730U processor",
+      "512 GB SSD & 16 GB DDR4 RAM",
+      "16 4K OLED-skärm",
+      "Väger endast 1,17 kg",
+      "Windows 11 Home"
+    ],
+    "description": "Upplev en ny nivå av visuell teknik med Acer Swift Edge - SFE16-42-R7F5 laptop, utrustad med en 16tum 4K OLED-skärm! Dyk in i en verklighetstrogen värld av färger, kontraster och skärpa som tar din användarupplevelse till nya höjder. Datorn drivs av en AMD Ryzen 7-processor som ger den kraft och prestanda hela dagen, datorn har även 16 GB RAM, 512 GB SSD-lagring. Dess eleganta och lätta design gör den till den perfekta laptopen både på resan och i vardagen. ",
+    "inventory": 1,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "HP 17-cp2036 F/R5-7520U/8/512/11H  ",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/dator-surfplatta/laptop/laptop-17-tum/hp-17-cp2036-fr5-7520u851211h(1028617)_573138_1_Normal_Large.webp",
+    "price": 8490,
+    "points": [
+      "AMD Ryzen 5 7520U processor",
+      "512 GB SSD & 8 GB DDR4 RAM",
+      "Upp till 11,5 timmars batteritid",
+      "17 Full HD-skärm (1920 x 1080)",
+      "Windows 11 Home"
+    ],
+    "description": "HP 17-cp2036 är en kraftfull bärbar dator med en 17,3tum högupplöst skärm som är perfekt för dig som letar efter en pålitlig arbetsdator. Med en AMD-processor och 8 GB RAM-minne klarar den av att hantera alla dina uppgifter med lätthet, som att streama filmer eller arbeta i olika program. Dessutom har den en snabb och pålitlig 512 GB SSD-hårddisk som ger dig tillräckligt med utrymme för att lagra alla dina viktiga filer och program. Med 11,5-timmars batteritid kan du arbeta under hela dagen utan att behöva oroa dig för att ladda upp. ",
+    "inventory": 7,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Medion ERAZER DEPUTY P25 (MD62343) ",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/dator-surfplatta/laptop/laptop-14-16-tum/medion-erazer-deputy-p25-md62343(1029368)_569015_1_Normal_Large.webp",
+    "price": 8990,
+    "points": [
+      "AMD Ryzen™ 5 5600H processor",
+      "512 GB SSD & 8 GB RAM",
+      "NVIDIA® GeForce RTX™ 3060",
+      "144 Hz 15,6tum Full HD-skärm",
+      "Wi-Fi 6 och Bluetooth"
+    ],
+    "description": "Medion ERAZER DEPUTY P25 är en 15,6tum gaminglaptop som med snabb prestanda kommer lämna dina motståndare i dammet bakom dig. Datorn har bland annat utrustas med 5:e generationens AMD Ryzen 5 processor som i kombination med en 512 GB stor SSD-hårddisk ger dig höga hastigheter i program och spel, samtidigt som du får gott om lagringsutrymme. Dessutom får du ta del av grafikkortet NVIDIA® GeForce® RTX 3060 med 6 GB av det snabba grafikminnet GDDR6, så att du kan skruva upp grafikinställningarna i dina favoritspel.",
+    "inventory": 0,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Lenovo Ideapad 1 (82VF003BMX)",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/dator-surfplatta/laptop/laptop-14-16-tum/lenovo-ideapad-1-82vf003bmx(1028438)_567771_4_Normal_Large.webp",
+    "price": 6990,
+    "points": [
+      "AMD Ryzen 5 7520U processor",
+      "256 GB SSD & 8 GB DDR5-RAM",
+      "Upp till 14 timmars batteritid",
+      "HD-webbkamera",
+      "Dubbla Dolby Audio-högtalare"
+    ],
+    "description": "AMD Ryzen 7000-serien består av grymma processorer med förbättrad prestanda. Ryzen-processorer är kända för sin höga kvalitet och ger dig alltid en fördel när du sitter vid datorn. Processorn har utrustats med 4 st kärnor, 8 st trådar och boost på upp till 4,3 GHz. Kort sagt, prestanda där du verkligen märker skillnaden.",
+    "inventory": 30,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Watch6  Maximera ditt välmående",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/smartwatch/samsung-smartwatch/samsung-galaxy-watch6-40mm-bt-graphite(1030357)_591930_1_Normal_Large.webp",
+    "price": 3990,
+    "points": [
+      "Pekskärm",
+      "100+ träningslägen",
+      "Friskvårdsfunktioner",
+      "Anslutningsmöjligheter",
+      "Batteri upp till 8 dagar"
+    ],
+    "description": "Smartklockan Galaxy Watch6 hjälper dig att hålla koll på din sömn. För att förbättra din sömnkvalitet noterar och mäter Galaxy Watch6 hur stor del av din sömn som består av lätt-, djup- och REM-sömn. Med den datan får du sedan tips och vägledning om hur du kan sova bättre.",
+    "inventory": 20,
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "name": "Garmin Forerunner 45 Small Black",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/smartwatch/garminsmartwatch/garmin-forerunner-45s-black(1013360)_390174_2_Normal_Large.webp",
+    "price": 1490,
+    "points": [
+      "Fitnessfunktioner",
+      "AMOLED-skärm",
+      "Platstjänster",
+      "Garmin Pay",
+      "Batteritid upp till 10 dagar"
+    ],
+    "description": "De anpassningsbara träningsprogrammen innehåller råd från experttränare och kostnadsfria träningsprogram som anpassas efter dig och dina mål. Träningspassen synkroniseras direkt till klockan.Klockan mäter din puls kontinuerligt och informerar dig om den är för hög eller låg när du vilar. Den hjälper också till att mäta hur hårt du arbetar under aktiviteter. Den fungerar till och med under vatten.",
+    "inventory": 25,
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "name": "Garmin Forerunner 45 Small White",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/smartwatch/garminsmartwatch/garmin-forerunner-45-small-white(1009620)_357092_2_Normal_Large.webp",
+    "price": 1480,
+    "points": [
+      "Avancerade hälsofunktioner",
+      "En motiverande träningspartner",
+      "Nyskapande trygghetsfunktioner",
+      "Kompatibel helt enkelt",
+      "Mobil uppkoppling"
+    ],
+    "description": "Ta emot e-post, sms och varningar direkt i klockan när den Smarta aviseringar ihopparad med en kompatibel smartphone.Om du känner dig osäker eller om din klocka känner av att en olycka har inträffat skickar funktionerna för assistans och händelsedetektering din plats till dina nödkontakter.",
+    "inventory": 17,
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "name": "Garmin Forerunner 245 Black/Slate  ",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/smartwatch/garminsmartwatch/garmin-forerunner-245-blackslate(1016248)_412991_1_Normal_Large.webp",
+    "price": 2596,
+    "points": [
+      "Inbyggda sportappar",
+      "Vägledning",
+      "Bra tränare, natt och dag",
+      "EKG-pulsmätare",
+      "Övervakning av syrenivån i blodet"
+    ],
+    "description": "En stor fördel med Garmin Forerunner 245 är att du kan känna dig trygg och säker. Om du vid något tillfälle inte känner dig säker eller att klockan känner av att en olycka inträffat skickar funktionerna för assistans och händelsedetektering* din plats till nödkontakterna.",
+    "inventory": 32,
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "name": "Amazfit T-Rex 2 Astro Black Gold ",
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/smartwatch/amazfit-smartwatch/amazfit-t-rex-2-astro-black-gold(1025569)_521284_1_Normal_Large.webp",
+    "price": 2970,
+    "points": [
+      "Pekskärm",
+      "100+ träningslägen",
+      "Upp till 7 dagar batteritid",
+      "Friskvårdsfunktioner",
+      "GPS-platstjänster"
+    ],
+    "description": "Amazfit T-Rex 2 är den tredje upplagan i T-Rex serien och deras mest slittåliga och avancerade smartklocka hittills. Med den nya BioTracker3 sensorn kan du enkelt läsa av allt ifrån din puls till din sömnkvalitet, som tillsammans med 150+ sportlägen gör Amazfit T-Rex 2 till en perfekt träningskompis och vardagsassistent.",
+    "inventory": 25,
+    "quantity": 0
+  }
+]
